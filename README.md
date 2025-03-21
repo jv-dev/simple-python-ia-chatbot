@@ -58,18 +58,9 @@ Em resumo, este projeto é uma porta de entrada para você começar a dominar su
 *   **`_format_messages(messages)`**: Esta função recebe a lista de mensagens, e as formata no formato correto, para que possam ser enviadas para o modelo Gemini.
 *   **`__get_genai()`:** Configura a API Gemini, utilizando a chave da API que está no arquivo `.env`.
 
-## Contribuições
-
-Sinta-se à vontade para contribuir com o projeto! Se você deseja participar, siga estes passos:
-
-1.  Faça um "fork" do repositório.
-2.  Crie uma nova branch para a funcionalidade ou correção de bug que você deseja adicionar.
-3.  Faça as alterações desejadas.
-4.  Envie um "pull request" para que suas mudanças sejam analisadas e, possivelmente, incorporadas ao projeto.
-
 ## Apresentação
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=I92ilXqa4HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Apresentação do Projeto](https://youtu.be/I92ilXqa4HQ)
 
 ## Autor
 

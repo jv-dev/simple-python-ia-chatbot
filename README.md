@@ -25,9 +25,8 @@ Em resumo, este projeto é uma porta de entrada para você começar a dominar su
 
 ### Passo a Passo para Executar o Projeto
 
-1.  **Clone o Repositório:**
-    *(Substitua `seu-usuario` pelo seu nome de usuário do GitHub.)*
-2.  **Crie um Ambiente Virtual (Recomendado):**
+1.  **Clone o Repositório;
+2.  **Crie um Ambiente Virtual (Recomendado);**
 3.  **Instale as Dependências:**
     *   Primeiro, certifique-se de que você está dentro do ambiente virtual.
     *   Instale a biblioteca `google-generativeai`:
